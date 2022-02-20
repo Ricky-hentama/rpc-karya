@@ -1001,7 +1001,12 @@ select {
 .form-1 .list-unstyled .fas {
 	color: #6168ff;
 }
-
+.form-1 .list-unstyled .fab {
+	color: #6168ff;
+}
+.form-1 .list-unstyled .fal {
+	color: #6168ff;
+}
 
 /******************/
 /*     Footer     */
